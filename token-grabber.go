@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	WEBHOOK_URL = "https://discord.com/api/webhooks/1347059490595278908/40qBaW0zfHrodtIYlE7jfdi5etj_V7wVuuunPJIDQune9C24_5oWDOlA-VWN-lL1fr1J"
+	WEBHOOK_URL = "http://example.com/webhook"
 	PING_ME     = false
 )
 
